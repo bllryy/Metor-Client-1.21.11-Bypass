@@ -17,6 +17,8 @@
     <img src="https://img.shields.io/endpoint?url=https://ghloc.vercel.app/api/MeteorDevelopment/meteor-client/badge?filter=.java$&label=lines%20of%20code&color=blue" alt="GitHub lines of code"/>
 </div>
 
+# I will possibly make a release for this and compile the jar and send however i prolly wolnt 
+
 ## Please note that some modules and that some features may be broken
 ## this is only a temp fix 
 ## this is a fork of the main client on 1.21.11
